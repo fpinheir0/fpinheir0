@@ -31,4 +31,4 @@
   
   ![Snake animation](https://github.com/fpinheir0/fpinheir0/blob/main/.github/workflows/snake.yml)
   
-</div> -->
+</div>
