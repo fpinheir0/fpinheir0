@@ -27,8 +27,8 @@
   <a href="https://www.linkedin.com/in/felipeluizpinheiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
-<div align="center">
+<!-- <div align="center">
   
   ![Snake animation](https://github.com/fpinheir0/fpinheir0/blob/main/.github/workflows/snake.yml)
   
-</div>
+</div> -->
