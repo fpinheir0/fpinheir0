@@ -29,6 +29,6 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/fpinheir0/fpinheir0/blob/main/.github/workflows/snake.yml)
+  ![Snake animation](https://github.com/fpinheir0/fpinheir0/blob/output/github-contribution-grid-snake.svg)
   
 </div>
