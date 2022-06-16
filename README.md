@@ -1,9 +1,9 @@
 ### Olá meu nome é Felipe 👋
 🤓 atualmente estou cursando Analise e desenvolvimento de sistema, na UNIFRAN (Universidade de Franca)
 <br />
-📱 Estudo também Dart/Flutter com a maior comunidade do Brasil #Flutterando.
+📱 Estudo também Dart/Flutter com a maior comunidade do Brasil #Flutterando - Master Class.
 <br />
-✨ Front End Developer
+✨ Full Stack Developer
 
 
 <div align="center">
